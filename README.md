@@ -12,3 +12,5 @@ https://marvssvil.github.io/RunBuddy/
 
 ## Contribution
 Made with ❤️ by Maria
+
+### ©️2019 Run Buddy, Inc 
